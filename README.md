@@ -5,7 +5,9 @@
 ## [UA Community]
 
 ### Conferences
-* [Security Bsides Kyiv](https://www.google.com "Security Bsides Kyiv")
+* [Security Bsides Kyiv](https://kyiv.securitybsides.org.ua/)
+* [Security Bsides Kharkiv](https://kharkiv.securitybsides.org.ua/)
+* [Security Bsides Odesa](https://odessa.securitybsides.org.ua/)
 * [NoNameCon](https://www.nonamecon.org/ "NoNameCon")
 * [UISGCON](https://uisgcon.org/)
 

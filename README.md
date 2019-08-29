@@ -19,7 +19,7 @@
 
 ### OWASP
 * [Kyiv Chapter](https://www.owasp.org/index.php/Kyiv "OWASP Kyiv")
-* [Kharkiv Chapter] (https://www.owasp.org/index.php/Kharkiv "OWASP Kharkiv")
+* [Kharkiv Chapter](https://www.owasp.org/index.php/Kharkiv "OWASP Kharkiv")
 * [Lviv Chapter](https://www.owasp.org/index.php/Lviv "OWASP Lviv")
 * [Dnipro Chapter](https://www.owasp.org/index.php/Dnipro)
 * [Odessa Chapter](https://www.owasp.org/index.php/Odessa)

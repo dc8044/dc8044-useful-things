@@ -17,8 +17,9 @@
 * [NoName Podcast Twitter](https://twitter.com/no_podcast "NoName Podcast")
 * Security13 Podcast [Twitter](https://twitter.com/Securit13) [YouTube](https://www.youtube.com/c/Securit13Podcast) [libsyn](http://securit13.libsyn.com/)
 
-### Owasp
+### OWASP
 * [Kyiv Chapter](https://www.owasp.org/index.php/Kyiv "OWASP Kyiv")
+* [Kharkiv Chapter] (https://www.owasp.org/index.php/Kharkiv "OWASP Kharkiv")
 * [Lviv Chapter](https://www.owasp.org/index.php/Lviv "OWASP Lviv")
 * [Dnipro Chapter](https://www.owasp.org/index.php/Dnipro)
 * [Odessa Chapter](https://www.owasp.org/index.php/Odessa)
@@ -28,6 +29,7 @@
 ### Collections
 * [Awesome Pentest](https://github.com/enaqx/awesome-pentest "Awesome Pentest Repo")
 * [Awesome Security ](https://github.com/sbilly/awesome-security "Awesome Security Repo")
+* [Awesome Static analysis] (https://github.com/mre/awesome-static-analysis "Awesome static analysis")
 
 ### Courses
 * [Pentester academy](https://www.pentesteracademy.com/)
